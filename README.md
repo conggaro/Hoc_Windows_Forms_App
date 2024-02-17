@@ -3,3 +3,4 @@
 # Toolbox (Chứa các control)
 1. Panel - bảng điều khiển.
 2. Label - nhãn mác.
+3. TextBox - hộp văn bản.
