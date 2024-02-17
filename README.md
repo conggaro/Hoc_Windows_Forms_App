@@ -4,3 +4,5 @@
 1. Panel - bảng điều khiển.
 2. Label - nhãn mác.
 3. TextBox - hộp văn bản.
+# Vị trí của chương trình lúc chạy
+Sử dụng StartPosition: CenterScreen
