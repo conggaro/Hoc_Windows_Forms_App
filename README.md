@@ -8,6 +8,7 @@
 5. MenuStrip - dải menu.
 6. ListView - chế độ xem danh sách.
 7. ComboBox - hộp tổ hợp.
+8. NumericUpDown - số lên xuống.
 # Vị trí của chương trình lúc chạy
 Sử dụng StartPosition: CenterScreen (nó sẽ ra chính giữa màn hình)
 # Ẩn mật khẩu cho TextBox
