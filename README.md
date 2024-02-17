@@ -6,6 +6,7 @@
 3. TextBox - hộp văn bản.
 4. Button - cái nút.
 5. MenuStrip - dải menu.
+6. ListView - chế độ xem danh sách.
 # Vị trí của chương trình lúc chạy
 Sử dụng StartPosition: CenterScreen (nó sẽ ra chính giữa màn hình)
 # Ẩn mật khẩu cho TextBox
