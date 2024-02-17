@@ -17,3 +17,9 @@ this.txbPassword.TabIndex = 2;
 this.btnLogin.TabIndex = 3;
 this.btnExit.TabIndex = 4;
 </code>
+# Thêm một form mới
+Bước 1: bấm chuột phải vào Project (không bấm chuột phải vào Solution nha).<br>
+Bước 2: Chọn Add.<br>
+Bước 3: Chọn New Item.<br>
+Bước 4: Chọn Form (Windows Forms), nó sẽ gợi ý là Form1.cs đấy.<br>
+Bước 5: Đặt tên Form theo ý thích rồi bấm Add.
