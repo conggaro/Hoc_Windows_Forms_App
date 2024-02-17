@@ -2,3 +2,4 @@
 1. để in thông báo: MessageBox.Show("Welcome to C#");
 # Toolbox (Chứa các control)
 1. Panel - bảng điều khiển.
+2. Label - nhãn mác.
