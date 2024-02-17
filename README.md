@@ -6,3 +6,5 @@
 3. TextBox - hộp văn bản.
 # Vị trí của chương trình lúc chạy
 Sử dụng StartPosition: CenterScreen
+# Ẩn mật khẩu cho TextBox
+Sử dụng UseSystemPasswordChar: true
