@@ -6,6 +6,6 @@
 3. TextBox - hộp văn bản.
 4. Button - cái nút.
 # Vị trí của chương trình lúc chạy
-Sử dụng StartPosition: CenterScreen
+Sử dụng StartPosition: CenterScreen (nó sẽ ra chính giữa màn hình)
 # Ẩn mật khẩu cho TextBox
 Sử dụng UseSystemPasswordChar: true
