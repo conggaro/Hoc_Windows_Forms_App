@@ -28,3 +28,7 @@ Bước 2: Chọn Add.<br>
 Bước 3: Chọn New Item.<br>
 Bước 4: Chọn Form (Windows Forms), nó sẽ gợi ý là Form1.cs đấy.<br>
 Bước 5: Đặt tên Form theo ý thích rồi bấm Add.
+# Tác dụng của FlowLayoutPanel
+danh sách không cố định, nhiều khi là N phần tử thì sao<br>
+rồi mỗi lần thêm thì nó sẽ tự động xếp đầy panel, không đi ra ngoài<br>
+đỡ được công việc thiết lập vị trí cho các phần tử (set position)
