@@ -9,6 +9,7 @@
 6. ListView - chế độ xem danh sách.
 7. ComboBox - hộp tổ hợp.
 8. NumericUpDown - số lên xuống.
+9. FlowLayoutPanel - bảng điều khiển bố cục luồng.
 # Vị trí của chương trình lúc chạy
 Sử dụng StartPosition: CenterScreen (nó sẽ ra chính giữa màn hình)
 # Ẩn mật khẩu cho TextBox
