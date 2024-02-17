@@ -12,8 +12,7 @@ Sử dụng UseSystemPasswordChar: true
 # Thiết lập TabIndex
 Lập trình Win Form thì nhớ phải thiết lập TabIndex cho TextBox, Button<br>
 Ví dụ:<br>
-<code>
-this.txbUserName.TabIndex = 1;
+<code>this.txbUserName.TabIndex = 1;
 this.txbPassword.TabIndex = 2;
 this.btnLogin.TabIndex = 3;
 this.btnExit.TabIndex = 4;
