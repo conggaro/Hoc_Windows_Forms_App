@@ -1,6 +1,7 @@
 # Học Windows Forms App (.NET Framework)
 1. để in thông báo: MessageBox.Show("Welcome to C#");
 2. căn chỉnh văn bản: TextAlign: Center.
+3. làm cho cái TextBox chỉ đọc: ReadOnly: true.
 # Toolbox (Chứa các control)
 1. Panel - bảng điều khiển.
 2. Label - nhãn mác.
