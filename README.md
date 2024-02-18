@@ -34,3 +34,8 @@ Bước 5: Đặt tên Form theo ý thích rồi bấm Add.
 danh sách không cố định, nhiều khi là N phần tử thì sao<br>
 rồi mỗi lần thêm thì nó sẽ tự động xếp đầy panel, không đi ra ngoài<br>
 đỡ được công việc thiết lập vị trí cho các phần tử (set position)
+# Khi bạn bấm Enter trên Win Form
+khi bạn bấm Enter trên Win Form<br>
+thì bạn muốn nó tự động ăn vào button đăng nhập<br>
+vậy bạn cần thiết lập thuộc tính AcceptButton của đối tượng Form<br>
+ví dụ: AcceptButton: btnLogin
