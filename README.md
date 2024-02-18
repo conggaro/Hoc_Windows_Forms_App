@@ -38,4 +38,5 @@ rồi mỗi lần thêm thì nó sẽ tự động xếp đầy panel, không đ
 khi bạn bấm Enter trên Win Form<br>
 thì bạn muốn nó tự động ăn vào button đăng nhập<br>
 vậy bạn cần thiết lập thuộc tính AcceptButton của đối tượng Form<br>
-ví dụ: AcceptButton: btnLogin
+ví dụ: AcceptButton: btnLogin<br>
+<code>this.AcceptButton = this.btnLogin;</code>
