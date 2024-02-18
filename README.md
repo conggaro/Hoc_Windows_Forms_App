@@ -40,3 +40,9 @@ thì bạn muốn nó tự động ăn vào button đăng nhập<br>
 vậy bạn cần thiết lập thuộc tính AcceptButton của đối tượng Form<br>
 ví dụ: AcceptButton: btnLogin<br>
 <code>this.AcceptButton = this.btnLogin;</code>
+# Khi bạn bấm Esc trên Win Form
+khi bạn bấm Esc trên Win Form<br>
+thì bạn muốn nó tự động ăn vào button thoát<br>
+vậy bạn cần thiết lập thuộc tính CancelButton của đối tượng Form<br>
+ví dụ: CancelButton: btnExit<br>
+<code>this.CancelButton = this.btnExit;</code>
